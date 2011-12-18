@@ -1,0 +1,5 @@
+/classes
+/cljs_staging
+/.git
+/lib
+/.lein-deps-sum
